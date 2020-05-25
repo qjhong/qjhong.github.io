@@ -1,15 +1,30 @@
-<h1>COVID Prediction Based on Encouter Density Data</h1> Last updated: May 24, 2020
+<h1>COVID Prediction Based on Encouter Density Data</h1> Last updated: May 25, 2020
 <h2>My model predicts that a second wave of COVID cases is arriving, as soon as early June.</h2>
 
-<h3>Projection of the Next 22 Days</h3>
-<p><img src=Projection.png alt=DNC width="800"></p>
+<h3>Projection of the Next 20 Days</h3>
+<p><img src=US_Projection.png alt=DNC width="800"></p>
+State Projection: 
+<a rel="CA" href="CA.html">CA</a>
+<a rel="CT" href="CT.html">CT</a>
+<a rel="FL" href="FL.html">FL</a>
+<a rel="GA" href="GA.html">GA</a>
+<a rel="IL" href="IL.html">IL</a>
+<a rel="MA" href="MA.html">MA</a>
+<a rel="MD" href="MD.html">MD</a>
+<a rel="MI" href="MI.html">MI</a>
+<a rel="NJ" href="NJ.html">NJ</a>
+<a rel="NY" href="NY.html">NY</a>
+<a rel="PA" href="PA.html">PA</a>
+<a rel="TX" href="TX.html">TX</a>
+<a rel="US" href="US.html">US</a>
+<a rel="VA" href="VA.html">VA</a>
 
 <h3>Daily Tests and Daily New Cases</h3>(Data source: the COVID Tracking Project)
 
-<p><img src=DailyNewCases.png alt=DNC width="800"></p>
+<p><img src=US_DailyNewCases.png alt=DNC width="800"></p>
 
 <h3>What is the idea?</h3>
-<p>My model uses current "Encounter Density" <i>D</i> to predict future "Reproductive Number" <i>R</i> and "Daily New Confirmed Cases". This is the most fundamental idea and assumption of the model.</p>
+<p>My model uses current "Encounter Density" <i>D</i> to predict future "Reproductive Number" <i>R</i> and "Daily New Confirmed Cases". This is the most fundamental idea and assumption in this model.</p>
 <p>today's "Daily New Confirmed Cases" + today's "Encounter Density" ==> today's infected Cases ==> next 2-3 weeks "Daily New Confirmed Cases"</p>
 
 <h3>Why "Encounter" data?</h3>
@@ -20,9 +35,9 @@
 <h3>How does it work?</h3>
 <h3></h3>
 
-<p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by 22 days) is evident in this figure. Using (1) <i>R</i> and <i>D</i> relation in the past as a training set and (2) future <i>D</i> as input, I can estimate future <i>R</i>, and ultimately future Daily New Cases.</p>
+<p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by 22 days) is evident in this figure. Using (1) <i>R</i> and <i>D</i> relation in the past as a training set, (2) future <i>D</i> as input, and (3) machine learning, my model can predict future <i>R</i>, and ultimately future Daily New Cases.</p>
 
-<p><img src=R_D.png alt=DNC width="800"></p>
+<p><img src=US_R_D_1.png alt=DNC width="800"></p>
 <p>Shown in red is "Daily Reproductive Number" <i>R_d</i>, which is obtained through fitting of existing "Daily New Confirmed Cases". By definition, if day 1 daily new cases in <i>N</i>, day 2 number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
 
 <p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by 22 days. 
