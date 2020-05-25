@@ -1,20 +1,29 @@
-<h1>COVID Prediction Based on Encouter Density Data</h1>
+<h1>COVID Prediction Based on Encouter Density Data</h1> Last updated: May 24, 2020
+<h2>My model predicts that a second wave of COVID cases is arriving, as soon as early June.</h2>
 
-Daily Tests and Daily New Cases (Data source: the COVID Tracking Project)
+<h3>Projection of the Next 22 Days</h3>
+<p><img src=Projection.png alt=DNC width="800"></p>
+
+<h3>Daily Tests and Daily New Cases</h3>(Data source: the COVID Tracking Project)
 
 <p><img src=DailyNewCases.png alt=DNC width="800"></p>
 
-Projection of the Next 22 Days
+<h3>What is the idea?</h3>
+<p>My model uses current "Encounter Density" <i>D</i> to predict future "Reproductive Number" <i>R</i> and "Daily New Confirmed Cases". This is the most fundamental idea and assumption of the model.</p>
+<p>today's "Daily New Confirmed Cases" + today's "Encounter Density" ==> today's infected Cases ==> next 2-3 weeks "Daily New Confirmed Cases"</p>
 
-<p><img src=Projection.png alt=DNC width="800"></p>
+<h3>Why "Encounter" data?</h3>
+<p>Daily New Confirmed Cases data is "outdated". People who get confirmed today were infected at least a week ago through "Human Encounter" with other contagious people, and it took days to develop symptoms, seek tests, and get confirmed (infected -> symptomatic -> tested -> confirmed). In other words, today's "Daily New Confirmed Cases" is outdated data and it can be inferred from past "Daily New Confirmed Cases" data + past "Encounter" data. </p>
+<p>Encounter data is up-to-date. Yesterday's Human Encounter Density data is available online today. (Encounter Density <i>D</i> data source: Unacast's Social Distancing Scoreboard, which analyzes cell phone location data, counts "Human Encounters", defined as two cell phone devices that were in the same place at the same time, and then derives the probability and "Encounter Density".)</p>
 
-<p>My model uses Encounter Density <i>D</i> to determine Reproductive Number <i>R</i>. This is the most fundamental assumption of the model.</p>
-(Encounter Density <i>D</i> data source: Unacast's Social Distancing Scoreboard, which derives the probability that two cell phone devices that were in the same place at the same time)
 
-<p>The strong relation between <i>R</i> and <i>D</i> is evident in this figure.</p>
+<h3>How does it work?</h3>
+<h3></h3>
+
+<p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by 22 days) is evident in this figure. Using (1) <i>R</i> and <i>D</i> relation in the past as a training set and (2) future <i>D</i> as input, I can estimate future <i>R</i>, and ultimately future Daily New Cases.</p>
 
 <p><img src=R_D.png alt=DNC width="800"></p>
-<p>Shown in red is "Daily Reproductive Number" <i>R_d</i>. By definition, if today's daily new cases in <i>N</i>, tomorrow's number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
+<p>Shown in red is "Daily Reproductive Number" <i>R_d</i>, which is obtained through fitting of existing "Daily New Confirmed Cases". By definition, if day 1 daily new cases in <i>N</i>, day 2 number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
 
 <p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by 22 days. 
 These two curves are remarkably close. For example, <i>R</i> started to quickly decrease at around 3/20. This coincides with a sudden decrease of <i>D</i> at the end of Feb, ~20 days before. <i>R</i> reached bottom at ~4/15 and stayed at the level till ~5/15. This overlaps with low <i>D</i> between 3/20 to 4/20. 
