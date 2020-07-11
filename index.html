@@ -11,7 +11,7 @@
 
 
 
-<h1>Parameter-free COVID Model Based on Encounter Density Data</h1> Qi-Jun Hong <a rel="AboutME" href="AboutMe.html">About me</a> Last updated: July 6, 2020 (Next update scheduled: July 10)
+<h1>Parameter-free COVID Model Based on Encounter Density Data</h1> Qi-Jun Hong <a rel="AboutME" href="AboutMe.html">About me</a> Last updated: July 10, 2020 (Next update scheduled: July 13)
 <br>Previous Projections: 
 <a rel="May25" href="May25/index.html">May 25</a>
 <a rel="May29" href="May29/index.html">May 29</a>
@@ -25,6 +25,7 @@
 <a rel="Jun25" href="Jun25/index.html">Jun 25</a>
 <a rel="Jun29" href="Jun29/index.html">Jun 29</a>
 <a rel="Jul03" href="Jul03/index.html">Jul 03</a>
+<a rel="Jul06" href="Jul06/index.html">Jul 06</a>
 
 <br><a rel="Source" href="https://github.com/qjhong/covid19">Source code on GitHub</a>
 
@@ -35,9 +36,10 @@
 <h2>Infection numbers will reach 80,000 confirmed cases/day by end of July, which will likely require another lockdown. </h2>
 <h2>States at risk: FL, TX, GA, AZ, SC, CA, NC, NV, and almost all southern states...</h2>
 
-<h3>Top 5 States by Daily New Cases Next Day July 7: FL(10366), CA(8210), TX(6634), AZ(3647), GA(2631)</h3>
-<h3>Top 5 States by Daily New Cases in 5 Days July 10: FL(13234), CA(9179), TX(7665), AZ(3930), GA(3045)</h3>
-<h3>Top 5 States by Daily New Cases in 10 Days July 15: FL(19967), CA(11115), TX(9740), AZ(4407), GA(3917)</h3>
+<h3>Top 5 States by Daily New Cases Next Day July 11: TX(9567), FL(9408), CA(8761), AZ(3772), GA(3337)</h3>
+<h3>Top 5 States by Daily New Cases in 5 Days July 15: TX(10711), FL(9967), CA(9875), AZ(3737), GA(3735)</h3>
+<h3>Top 5 States by Daily New Cases in 10 Days July 20: TX(11924), CA(11355), FL(10608), GA(4223), AZ(3637)</h3>
+
 
 <h3>Projection of the Next 20 Days</h3>
 State Projection: 
@@ -118,15 +120,15 @@ Total deaths:
 <h3>How does it work?</h3>
 <h3></h3>
 
-<p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by 22 days) is evident in this figure. While social distancing quickly brought down <i>R</i>, easing policy is slowly increasing <i>R</i> back above 1. </p>
+<p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by ~22 days) is evident in this figure. While social distancing quickly brought down <i>R</i>, easing policy is slowly increasing <i>R</i> back above 1. </p>
 <p>Using (1) <i>R</i> and <i>D</i> relation in the past as a training set, (2) future <i>D</i> as input, and (3) machine learning / regression, my model can predict future <i>R</i>, and ultimately future Daily New Cases.</p>
 
 <p><img src=US_R_D_1.png alt=DNC width="700"></p>
 <p>Shown in red is "Daily Reproductive Number" <i>R_d</i>, which is obtained through fitting of existing "Daily New Confirmed Cases". By definition, if day 1 daily new cases in <i>N</i>, day 2 number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
 
-<p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by 22 days. 
+<p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by ~22 days. 
 These two curves are remarkably close. For example, <i>R</i> started to quickly decrease at around 3/20. This coincides with a sudden decrease of <i>D</i> at the end of Feb, ~20 days before. <i>R</i> reached bottom at ~4/15 and stayed at the level till ~5/15. This overlaps with low <i>D</i> between 3/20 to 4/20. 
-The amount of shift is optimized to maximize overlap, and the value is determined as 22 days. 
+The amount of shift is optimized to maximize overlap, and the value is determined as ~22 days. 
 The values are normalized to pre-pandamic levels, so 1.0 means activity level before pandemic hit US. 
 </p>
 <p><img src=US_Regression.png alt=DNC width="700"></p>
