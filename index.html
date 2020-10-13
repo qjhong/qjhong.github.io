@@ -59,6 +59,7 @@
 <a rel="Sep15" href="Sep15/index.html">Sep 15</a>
 <a rel="Sep23" href="Sep23/index.html">Sep 23</a>
 <a rel="Sep28" href="Sep28/index.html">Sep 28</a>
+<a rel="Oct05" href="Oct05/index.html">Oct 05</a>
 
 <br><a rel="Source" href="https://github.com/qjhong/covid19">Source code on GitHub</a>
 
@@ -66,14 +67,14 @@
 <br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid19 Encounter Model</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Qi-Jun Hong</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/qjhong/covid19" rel="dct:source">https://github.com/qjhong/covid19</a>.
 
 <h2>My model projects that it is likely we will see another wave in October/November. </h2>
-<h2>Fatality has bottomed. It will slowly increase. </h2>
-<h2>States at risk: WI, TX, FL, CA, UT, IL, MO, OK, AR, NY, NJ, etc...</h2>
+<h2>Fatality has bottomed. It will slowly increase. Daily deaths may increase above 1,000 by end of November. </h2>
+<h2>States at risk: WI, TX, FL, CA, UT, IL, MO, OK, AR, NY, NJ, TN, etc...</h2>
 <h2>Northeast starts to show signs of trouble.</h2>
 
 
-<h3>Top 5 States by Daily New Cases Next Day October 6: TX(4646), WI(3108), CA(2965), FL(2215), IL(2155)</h3>
-<h3>Top 5 States by Daily New Cases in 5 Days October 10: TX(5030), WI(3508), CA(2887), IL(2137), FL(2127)</h3>
-<h3>Top 5 States by Daily New Cases in 15 Days October 20: TX(6025), WI(4387), CA(2651), NC(2373), IL(2000)</h3>
+<h3>Top 5 States by Daily New Cases Next Day October 13: TX(3603), CA(3325), WI(2874), IL(2731), FL(2543)</h3>
+<h3>Top 5 States by Daily New Cases in 5 Days October 20: TX(3411), CA(3296), WI(3050), IL(2993), FL(2487)</h3>
+<h3>Top 5 States by Daily New Cases in 15 Days October 30: IL(3657), CA(3266), TX(3154), WI(3134), TN(2775)</h3>
 
 <h3>Projection of the Next 30 Days</h3>
 State Projection: 
@@ -151,6 +152,7 @@ Daily deaths:
 <p><img src=States_DNC.png alt=DNC width="1000"></p>
 
 <h3>What is the idea?</h3>
+<p> UPDATE: Since Oct 12, my model has included more features, in addition to encounter density. XGBoost is employed for regression.</p>
 <p>today's "Daily New Confirmed Cases" + today's "Encounter Density" ==> today's newly infected Cases ==> next 2-3 weeks' "Daily New Confirmed Cases"</p>
 <p>(Encounter Density <i>D</i> data source: Unacast's Social Distancing Scoreboard, which analyzes cell phone location data, counts "Human Encounters", defined as two cell phone devices that were in the same place at the same time, and then derives the probability and "Encounter Density".)</p>
 <p>My model uses current "Encounter Density" <i>D</i> to predict future "Reproductive Number" <i>R</i> and "Daily New Confirmed Cases". This is the most fundamental idea and assumption in this model.</p>
