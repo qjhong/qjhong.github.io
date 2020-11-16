@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+
+title: [COVID Model QJHong-Encounter]
+description: [COVID model based on encounter density data]
