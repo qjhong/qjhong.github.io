@@ -46,20 +46,23 @@ Previous Projections:
 This is a personal project and these are my own views. 
 <br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid19 Encounter Model</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Qi-Jun Hong</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/qjhong/covid19" rel="dct:source">https://github.com/qjhong/covid19</a>.
 
-### My model projects 200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths by year end in the US. 
-### Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
-### My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
-### Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
-### States at risk: everywhere </h2>
+
+## Projection
+* My model projects **200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths** by year end in the US. 
+* Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
+* My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
+* Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
+## States at risk: 
+**everywhere**
+
+## Next 10 days
+* Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
+* Top 5 States by Daily New Cases in 5 Days November 21: IL(15786), TX(10008), CA(8823), MI(8226), OH(7600)
+* Top 5 States by Daily New Cases in 10 Days November 26: IL(17640), TX(11203), CA(9925), MI(9359), WI(8231)
 
 
-### Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
-### Top 5 States by Daily New Cases in 5 Days November 21: IL(15786), TX(10008), CA(8823), MI(8226), OH(7600)
-### Top 5 States by Daily New Cases in 10 Days November 26: IL(17640), TX(11203), CA(9925), MI(9359), WI(8231)
-
-
-### Projection of the Next 60 Days
-State Projection: 
+## Projection of the Next 60 Days
+### State Projection: 
 [AK](AK.html)
 [AL](AL.html)
 [AR](AR.html)
