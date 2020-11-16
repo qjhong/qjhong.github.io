@@ -1,4 +1,3 @@
-# Parameter-free COVID Model Based on Encounter Density Data 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 Last updated: November 16, 2020 (Next update scheduled: November 23)
 
@@ -47,11 +46,12 @@ This is a personal project and these are my own views.
 <br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid19 Encounter Model</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Qi-Jun Hong</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/qjhong/covid19" rel="dct:source">https://github.com/qjhong/covid19</a>.
 
 
-## Projection
+## Projection summary
 * My model projects **200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths** by year end in the US. 
 * Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
 * My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
 * Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
+
 ## States at risk: 
 **everywhere**
 
@@ -131,14 +131,20 @@ This is a personal project and these are my own views.
 ### Reproductive number:
 ![Reproductive number](US_slope.png)
 
-### My Model's Ranking by Youyang Gu Weekly:
+### My Model's Ranking by Youyang Gu:
 [YYG's Evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation/tree/master/summary)
+
 [My Summary](https://github.com/qjhong/covid19-forecast-hub-evaluation-summary-hqj)
+
 On Nov 2, Youyang Gu slightly changed his ranking method. For transparency, I keep ranking results both before and after the change. (See Nov 02 link at top of page)
-If we compare median/mean ranking, my model is at the top of the list, regardless of the change. 
+
+If we compare median/mean ranking, my model is at the top of the list, regardless of the change.
+
 Starting the next update, I will post ranking only using the new method (since this is Youyang Gu's ranking evaluation).
 
+#### Weekly ranking, 1-6w forward performance
 ![Model Rank](Model_Rank.png)
+#### Overall ranking and RMSE/MAE of errors
 ![Rank Summary](Ranking_summary.png)
 
 ### Daily Tests and Daily New Cases
