@@ -1,5 +1,5 @@
 # Parameter-free COVID Model Based on Encounter Density Data 
-Qi-Jun Hong [AboutME](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 Last updated: November 16, 2020 (Next update scheduled: November 23)
 
 Previous Projections: 
@@ -46,11 +46,11 @@ Previous Projections:
 This is a personal project and these are my own views. 
 <br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid19 Encounter Model</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Qi-Jun Hong</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/qjhong/covid19" rel="dct:source">https://github.com/qjhong/covid19</a>.
 
-## My model projects 200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths by year end in the US. 
-## Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
-## My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
-## Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
-## States at risk: everywhere </h2>
+### My model projects 200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths by year end in the US. 
+### Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
+### My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
+### Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
+### States at risk: everywhere </h2>
 
 
 ### Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
@@ -113,24 +113,20 @@ State Projection:
 [WV](WV.html)
 [WY](WY.html)
 
-<br><h3>Daily new confirmed cases:
-<p>
-<img src=US_Projection.png alt=DNC width="700">
-</p>
-Considering cold weather:
-<p>
-<img src=US_Projection_weather.png alt=DNC width="700">
-</p>
-Total deaths:
-<p><img src=US_Death_Projection.png alt=DNC width="700"></p>
-Daily deaths:
-<p><img src=US_Death_Projection_daily.png alt=DNC width="700"></p>
-Considering cold weather:
-<p><img src=US_Death_Projection_daily_weather.png alt=DNC width="700"></p>
-Fatality rate Poisson weighted:
-<p><img src=US_Death_ratio_poisson.png alt=DNC width="700"></p>
-Reproductive number:
-<p><img src=US_slope.png alt=DNC width="700"></p>
+### Daily new confirmed cases:
+![Daily new confirmed cases](US_Projection.png)
+### Considering cold weather:
+![Considering cold weather](US_Projection_weather.png)
+### Total deaths:
+![Total deaths](US_Death_Projection.png)
+### Daily deaths:
+![Daily deaths](US_Death_Projection_daily.png)
+### Considering cold weather:
+![Considering cold weather](US_Death_Projection_daily_weather.png)
+### Fatality rate Poisson weighted:
+![Fatality rate Poisson weighted](US_Death_ratio_poisson.png)
+### Reproductive number:
+![Reproductive number](US_slope.png)
 
 <br>My Model's Ranking by Youyang Gu Weekly:</h3>
 <a rel="YYG" href="https://github.com/youyanggu/covid19-forecast-hub-evaluation/tree/master/summary">YYG's Evaluation</a>
