@@ -1,4 +1,5 @@
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+
 Last updated: November 16, 2020 (Next update scheduled: November 23)
 
 Previous Projections: 
@@ -53,7 +54,7 @@ This is a personal project and these are my own views.
 * Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
 
 ## States at risk: 
-**everywhere**
+**Everywhere**
 
 ## Next 10 days
 * Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
