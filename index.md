@@ -57,9 +57,10 @@ This is a personal project and these are my own views.
 **Everywhere**
 
 ## Next 10 days
-* Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
-* Top 5 States by Daily New Cases in 5 Days November 21: IL(15786), TX(10008), CA(8823), MI(8226), OH(7600)
-* Top 5 States by Daily New Cases in 10 Days November 26: IL(17640), TX(11203), CA(9925), MI(9359), WI(8231)
+Top 5 States by Daily New Cases 
+* Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
+* in 5 Days November 21: IL(15786), TX(10008), CA(8823), MI(8226), OH(7600)
+* in 10 Days November 26: IL(17640), TX(11203), CA(9925), MI(9359), WI(8231)
 
 
 ## Projection of the Next 60 Days
