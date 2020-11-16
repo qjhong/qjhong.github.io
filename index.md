@@ -128,23 +128,25 @@ State Projection:
 ### Reproductive number:
 ![Reproductive number](US_slope.png)
 
-<br>My Model's Ranking by Youyang Gu Weekly:</h3>
-<a rel="YYG" href="https://github.com/youyanggu/covid19-forecast-hub-evaluation/tree/master/summary">YYG's Evaluation</a>
-<br><a rel="HQJ" href="https://github.com/qjhong/covid19-forecast-hub-evaluation-summary-hqj">My Summary</a>
-<br>On Nov 2, Youyang Gu slightly changed his ranking method. For transparency, I keep ranking results both before and after the change. (See Nov 02 link at top of page)
-<br>If we compare median/mean ranking, my model is at the top of the list, regardless of the change. 
-<br>Starting the next update, I will post ranking only using the new method (since this is Youyang Gu's ranking evaluation).
+### My Model's Ranking by Youyang Gu Weekly:
+[YYG's Evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation/tree/master/summary)
+[My Summary](https://github.com/qjhong/covid19-forecast-hub-evaluation-summary-hqj)
+On Nov 2, Youyang Gu slightly changed his ranking method. For transparency, I keep ranking results both before and after the change. (See Nov 02 link at top of page)
+If we compare median/mean ranking, my model is at the top of the list, regardless of the change. 
+Starting the next update, I will post ranking only using the new method (since this is Youyang Gu's ranking evaluation).
 
-<p><img src=Model_Rank.png alt=DNC width="700"></p>
-<p><img src=Ranking_summary.png alt=DNC width="1400"></p>
+![Model Rank](Model_Rank.png)
+![Rank Summary](Ranking_summary.png)
 
-<h3>Daily Tests and Daily New Cases</h3>(Data source: the COVID Tracking Project)
+### Daily Tests and Daily New Cases
+(Data source: the COVID Tracking Project)
 
-<p><img src=US_DailyNewCases.png alt=DNC width="700"></p>
-<h3>Daily New Cases in 50 US States</h3>(Data source: the COVID Tracking Project)
-<p><img src=States_DNC.png alt=DNC width="1000"></p>
+![US_DailyNewCases](US_DailyNewCases.png)
+### Daily New Cases in 50 US States
+(Data source: the COVID Tracking Project)
+![](States_DNC.png)
 
-<h3>What is the idea?</h3>
+### What is the idea?
 <p> UPDATE: Since Oct 12, my model has included more features, in addition to encounter density. XGBoost is employed for regression.</p>
 <p>today's "Daily New Confirmed Cases" + today's "Encounter Density" ==> today's newly infected Cases ==> next 2-3 weeks' "Daily New Confirmed Cases"</p>
 <p>(Encounter Density <i>D</i> data source: Unacast's Social Distancing Scoreboard, which analyzes cell phone location data, counts "Human Encounters", defined as two cell phone devices that were in the same place at the same time, and then derives the probability and "Encounter Density".)</p>
@@ -161,7 +163,7 @@ State Projection:
 <p>The strong correlation between <i>R</i> and <i>D</i> (<i>D</i> is shifted by ~22 days) is evident in this figure. While social distancing quickly brought down <i>R</i>, easing policy is slowly increasing <i>R</i> back above 1. </p>
 <p>Using (1) <i>R</i> and <i>D</i> relation in the past as a training set, (2) future <i>D</i> as input, and (3) machine learning / regression, my model can predict future <i>R</i>, and ultimately future Daily New Cases.</p>
 
-<p><img src=US_R_D_1.png alt=DNC width="700"></p>
+![US_R_D_1](US_R_D_1.png)
 <p>Shown in red is "Daily Reproductive Number" <i>R_d</i>, which is obtained through fitting of existing "Daily New Confirmed Cases". By definition, if day 1 daily new cases in <i>N</i>, day 2 number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
 
 <p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by ~22 days. 
@@ -169,5 +171,5 @@ These two curves are remarkably close. For example, <i>R</i> started to quickly 
 The amount of shift is optimized to maximize overlap, and the value is determined as ~22 days. 
 The values are normalized to pre-pandamic levels, so 1.0 means activity level before pandemic hit US. 
 </p>
-<p><img src=US_Regression.png alt=DNC width="700"></p>
+![US_Regression](US_Regression.png)
 
