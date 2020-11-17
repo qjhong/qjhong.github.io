@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 
 title: [QJHong COVID Model]
-description: [RMSE=8.0% MAE=6.1%]
+description: [RMSE=8.0% MAE=6.1% 1-4 week forward forecast]
 google_analytics: https://www.googletagmanager.com/gtag/js?id=UA-65833621-2
