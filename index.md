@@ -2,7 +2,7 @@ Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [C
 
 Last updated: November 16, 2020 (Next update scheduled: November 23)
 
-Previous Projections: 
+Previous Projections:
 [May25](May25/index.html)
 [May29](May29/index.html)
 [Jun02](Jun02/index.html)
@@ -40,30 +40,31 @@ Previous Projections:
 [Nov06](Nov06/index.html)
 [Nov09](Nov09/index.html)
 [Nov12](Nov12/index.html)
+[Nov16](Nov16/index.html)
 
 [Source](https://github.com/qjhong/covid19)
 
-This is a personal project and these are my own views. 
+This is a personal project and these are my own views.
 <br><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid19 Encounter Model</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Qi-Jun Hong</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/qjhong/covid19" rel="dct:source">https://github.com/qjhong/covid19</a>.
 
 
 ## Projection summary
-* My model projects **200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths** by year end in the US. 
-* Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns. 
+* My model projects **200,000 cases/day + 2,500 deaths/day + 350,000 cumulative deaths** by year end in the US.
+* Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns.
 * My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
-* Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5. 
+* Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000 and will surpass 1,500 by 11/25 and 2,000 by 12/5.
 
-## States at risk: 
+## States at risk:
 **Everywhere**
 
 ## Next 10 days
-* Top 5 States by Daily New Cases Next Day November 16: IL(13407), TX(8954), CA(7819), WI(7006), MI(6799)
-* Top 5 States by Daily New Cases in 5 Days November 21: IL(15786), TX(10008), CA(8823), MI(8226), OH(7600)
-* Top 5 States by Daily New Cases in 10 Days November 26: IL(17640), TX(11203), CA(9925), MI(9359), WI(8231)
+* Top 5 States by Daily New Cases Next Day November 19: IL(13953), TX(9609), CA(8852), MI(8062), OH(7673)
+* Top 5 States by Daily New Cases in 5 Days November 24: IL(16510), TX(10475), MI(10010), CA(9842), OH(8339)
+* Top 5 States by Daily New Cases in 10 Days November 29: IL(19186), MI(11806), TX(11312), CA(10844), WI(10018)
 
 
 ## Projection of the Next 60 Days
-### State Projection: 
+### State Projection:
 [AK](AK.html)
 [AL](AL.html)
 [AR](AR.html)
@@ -176,10 +177,9 @@ Starting the next update, I will post ranking only using the new method (since t
 ![US_R_D_1](US_R_D_1.png)
 <p>Shown in red is "Daily Reproductive Number" <i>R_d</i>, which is obtained through fitting of existing "Daily New Confirmed Cases". By definition, if day 1 daily new cases in <i>N</i>, day 2 number will be <i>N*R_d</i>. Hence, the ultimate goal is to keep <i>R_d</i> under 1.</p>
 
-<p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by ~22 days. 
-These two curves are remarkably close. For example, <i>R</i> started to quickly decrease at around 3/20. This coincides with a sudden decrease of <i>D</i> at the end of Feb, ~20 days before. <i>R</i> reached bottom at ~4/15 and stayed at the level till ~5/15. This overlaps with low <i>D</i> between 3/20 to 4/20. 
-The amount of shift is optimized to maximize overlap, and the value is determined as ~22 days. 
-The values are normalized to pre-pandamic levels, so 1.0 means activity level before pandemic hit US. 
+<p>The black dots are Adjusted Encounter Density <i>D_adj</i>, shifted forward by ~22 days.
+These two curves are remarkably close. For example, <i>R</i> started to quickly decrease at around 3/20. This coincides with a sudden decrease of <i>D</i> at the end of Feb, ~20 days before. <i>R</i> reached bottom at ~4/15 and stayed at the level till ~5/15. This overlaps with low <i>D</i> between 3/20 to 4/20.
+The amount of shift is optimized to maximize overlap, and the value is determined as ~22 days.
+The values are normalized to pre-pandamic levels, so 1.0 means activity level before pandemic hit US.
 </p>
 ![US_Regression](US_Regression.png)
-
