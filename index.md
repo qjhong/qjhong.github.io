@@ -1,6 +1,6 @@
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: November 16, 2020 (Next update scheduled: November 23)
+Last updated: November 19, 2020 (Next update scheduled: November 23)
 
 Previous Projections:
 [May25](May25/index.html)
