@@ -40,7 +40,7 @@ Previous Projections:
 [Nov06](Nov06/index.html)
 [Nov09](Nov09/index.html)
 [Nov12](Nov12/index.html)
-[Nov16](Nov16/index.html)
+[Nov16](Nov16/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
