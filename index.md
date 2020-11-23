@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: November 19, 2020 (Next update scheduled: November 23)
+Last updated: November 23, 2020 (Next update scheduled: November 30)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -53,6 +53,7 @@ Previous Projections:
 [Nov09](Nov09/index.html)
 [Nov12](Nov12/index.html)
 [Nov16](Nov16/index.md)
+[Nov19](Nov19/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -71,10 +72,9 @@ This is a personal project and these are my own views.
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day November 19: IL(13953), TX(9609), CA(8852), MI(8062), OH(7673)
-* In 5 Days November 24: IL(16510), TX(10475), MI(10010), CA(9842), OH(8339)
-* In 10 Days November 29: IL(19186), MI(11806), TX(11312), CA(10844), WI(10018)
-
+* Next Day November 23: IL(12399), CA(12029), TX(10423), OH(8264), FL(7887)
+* In 5 Days November 28: IL(14925), CA(13428), TX(11498), OH(9524), MN(9470)
+* In 10 Days December 3: IL(16626), CA(14422), TX(12676), MN(11004), OH(10723)
 
 ## Projection of the Next 60 Days
 ### State Projection:
