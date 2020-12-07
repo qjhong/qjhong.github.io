@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: November 30, 2020 (Next update scheduled: December 7)
+Last updated: December 7, 2020 (Next update scheduled: December 14)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -55,6 +55,7 @@ Previous Projections:
 [Nov16](Nov16/index.md)
 [Nov19](Nov19/index.md)
 [Nov23](Nov23/index.md)
+[Nov30](Nov30/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -134,14 +135,10 @@ Top 5 States by Daily New Cases
 
 ### Daily new confirmed cases:
 ![Daily new confirmed cases](US_Projection.png)
-### Considering cold weather:
-![Considering cold weather](US_Projection_weather.png)
 ### Total deaths:
 ![Total deaths](US_Death_Projection.png)
 ### Daily deaths:
 ![Daily deaths](US_Death_Projection_daily.png)
-### Considering cold weather:
-![Considering cold weather](US_Death_Projection_daily_weather.png)
 ### Fatality rate Poisson weighted:
 ![Fatality rate Poisson weighted](US_Death_ratio_poisson.png)
 ### Reproductive number:
@@ -161,7 +158,7 @@ Starting the next update, I will post ranking only using the new method (since t
 #### Weekly ranking, 1-6w forward performance
 ![Model Rank](Model_Rank.png)
 #### Overall ranking and RMSE/MAE of errors
-![Rank Summary](Ranking_summary.png)
+![Rank Summary](Rank_Summary.png)
 
 ### Daily Tests and Daily New Cases
 (Data source: the COVID Tracking Project)
