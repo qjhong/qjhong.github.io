@@ -67,18 +67,17 @@ This is a personal project and these are my own views.
 ## Projection summary
 * My model projects **200,000 cases/day + 3,000 deaths/day + 350,000 cumulative deaths** by year end in the US.
 * Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns.
-* My model projects that we will see another big wave in November/December. The wave has started and it is surging. The reproductive number is still increasing, with no sign of slowing down.
-* Fatality has bottomed. It will increase steadily in November. Daily deaths have surpassed 1,000, 1,500, and 2000, and will surpass 2,500 by 12/26.
+* My model projects that we will see another big wave in December. The wave has started and it is surging. The reproductive number suggests slowing down.
+* Fatality will increase steadily in December. Daily deaths have surpassed 1,000, 1,500, and 2000, and will surpass 2,500 by 12/26, and 3,000 in Janurary.
 
 ## States at risk:
 **Everywhere**
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day December 7: CA(18489), TX(11194), OH(9077), FL(8673), IL(8609)
-* In 5 Days December 12: CA(21640), TX(11764), NY(9643), FL(9351), OH(9317)
-* In 10 Days December 17: CA(25211), TX(12263), NY(10537), FL(10074), PA(10015)
-
+* Next Day December 14: CA(30875), TX(13756), OH(12499), PA(11211), NY(10728)
+* In 5 Days December 19: CA(33562), TX(13943), OH(12640), PA(12434), NY(11226)
+* In 10 Days December 24: CA(35562), TX(14039), PA(12904), OH(12611), NY(11229)
 
 ## Projection of the Next 60 Days
 ### State Projection:
