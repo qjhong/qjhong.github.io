@@ -69,7 +69,7 @@ This is a personal project and these are my own views.
 * My model projects **200,000 cases/day + 3,000 deaths/day + 350,000 cumulative deaths** by year end in the US.
 * Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns.
 * My model projects that we will see another big wave in December. The wave has started and it is surging. The reproductive number suggests slowing down.
-* Fatality will increase steadily in December. Daily deaths have surpassed 1,000, 1,500, and 2000, and will surpass 2,500 by 12/26, and 3,000 in Janurary.
+* Fatality will increase steadily in December. Daily deaths have surpassed 1000, 1500, 2000, and 2500, and will surpass 3,000 in early Janurary.
 
 ## States at risk:
 **Everywhere**
