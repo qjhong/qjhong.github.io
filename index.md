@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: December 14, 2020 (Next update scheduled: December 21)
+Last updated: December 21, 2020 (Next update scheduled: December 28)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -57,6 +57,7 @@ Previous Projections:
 [Nov23](Nov23/index.md)
 [Nov30](Nov30/index.md)
 [Dec07](Dec07/index.md)
+[Dec14](Dec14/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -75,9 +76,9 @@ This is a personal project and these are my own views.
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day December 14: CA(30875), TX(13756), OH(12499), PA(11211), NY(10728)
-* In 5 Days December 19: CA(33562), TX(13943), OH(12640), PA(12434), NY(11226)
-* In 10 Days December 24: CA(35562), TX(14039), PA(12904), OH(12611), NY(11229)
+* Next Day December 21: CA(41614), TX(15329), FL(10839), NY(10806), PA(10473)
+* In 5 Days December 26: CA(42165), TX(15206), FL(11437), PA(11140), NY(10804)
+* In 10 Days December 31: CA(42295), TX(15198), PA(11721), FL(11679), NY(10464)
 
 ## Projection of the Next 60 Days
 ### State Projection:
