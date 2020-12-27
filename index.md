@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: December 21, 2020 (Next update scheduled: December 28)
+Last updated: December 28, 2020 (Next update scheduled: January 4)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -58,6 +58,7 @@ Previous Projections:
 [Nov30](Nov30/index.md)
 [Dec07](Dec07/index.md)
 [Dec14](Dec14/index.md)
+[Dec21](Dec21/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -67,7 +68,6 @@ This is a personal project and these are my own views.
 
 ## Projection summary
 * My model projects **200,000 cases/day + 3,000 deaths/day + 350,000 cumulative deaths** by year end in the US.
-* Worst case scenario: 300,000 cases/day + 3,000 deaths/day by year end in the US. Unable to flatten the curve without lockdowns.
 * My model projects that we will see another big wave in December. The wave has started and it is surging. The reproductive number suggests slowing down.
 * Fatality will increase steadily in December. Daily deaths have surpassed 1000, 1500, 2000, and 2500, and will surpass 3,000 in early Janurary.
 
@@ -76,9 +76,9 @@ This is a personal project and these are my own views.
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day December 21: CA(41614), TX(15329), FL(10839), NY(10806), PA(10473)
-* In 5 Days December 26: CA(42165), TX(15206), FL(11437), PA(11140), NY(10804)
-* In 10 Days December 31: CA(42295), TX(15198), PA(11721), FL(11679), NY(10464)
+* Next Day December 28: CA(49324), TX(15794), NY(11048), FL(10829), PA(8596)
+* In 7 Days January 4: CA(57707), TX(15749), NY(11675), FL(11295), TN(8778)
+* In 12 Days January 9: CA(62018), TX(16108), NY(12105), FL(11128), TN(9798)
 
 ## Projection of the Next 60 Days
 ### State Projection:
