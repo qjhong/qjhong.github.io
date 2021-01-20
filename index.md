@@ -77,9 +77,9 @@ See figure below "Daily New Cases in 50 US States". States at risk are colored i
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day January 20: CA(49324), TX(15794), NY(11048), FL(10829), PA(8596)
-* In 5 Days January 24: CA(57707), TX(15749), NY(11675), FL(11295), TN(8778)
-* In 10 Days January 29: CA(62018), TX(16108), NY(12105), FL(11128), TN(9798)
+* Next Day January 20: CA(39593), TX(23332), NY(16248), FL(12914), AZ(7870)
+* In 5 Days January 24: CA(38993), TX(25226), NY(17362), FL(12846), NC(7369)
+* In 10 Days January 29: CA(36973), TX(26742), NY(17929), FL(12670), NC(7268)
 
 ## Projection of the Next 60 Days
 ### State Projection:
