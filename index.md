@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Janurary 19, 2020 (Next update scheduled: January 25)
+Last updated: Jan 31, 2020 (Next update scheduled: Feb 15)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -61,6 +61,7 @@ Previous Projections:
 [Dec21](Dec21/index.md)
 [Dec28](Dec28/index.md)
 [Jan11](Jan11/index.md)
+[Jan19](Jan19/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -77,9 +78,9 @@ See figure below "Daily New Cases in 50 US States". States at risk are colored i
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day January 20: CA(39593), TX(23332), NY(16248), FL(12914), AZ(7870)
-* In 5 Days January 24: CA(38993), TX(25226), NY(17362), FL(12846), NC(7369)
-* In 10 Days January 29: CA(36973), TX(26742), NY(17929), FL(12670), NC(7268)
+* Next Day Feb 1: CA(18180), TX(17351), NY(12212), FL(10117), AZ(5955)
+* In 5 Days Feb 5: TX(17379), CA(16326), NY(11930), FL(9744), AZ(5877)
+* In 10 Days Feb 10: TX(17361), TX(14611), NY(11299), FL(9332), AZ(5688)
 
 ## Projection of the Next 60 Days
 ### State Projection:
