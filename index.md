@@ -71,9 +71,11 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
-* My model projects rapid decrease of cases and deaths over the next few weeks in the US.
-* Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
-* Total Deaths will reach 500,000 by Feb 23. Total Deaths will not be higher than 600,000 when the pandemic ends.
+* Feb 20: My model projects rapid decrease of cases and deaths over the next few weeks in the US.
+* Feb 20: Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
+* Feb 20: Total Deaths will reach 500,000 by Feb 23. Total Deaths will not be higher than 600,000 when the pandemic ends.
+* Feb 1: My model projects stable decrease of cases over the next few weeks in the US. Fatality has peaked, but its decline will be slow. Averaged daily deaths will not cross below 2,000/day until March.
+* Jan 19: Fatality will peak in early February. The peak is at 3000-3500 deaths/day, with single day max above 4000.
 
 ## States at risk:
 See figure below "Daily New Cases in 50 US States". States at risk are colored in red.
