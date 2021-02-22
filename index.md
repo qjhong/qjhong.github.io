@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Jan 31, 2020 (Next update scheduled: Feb 15)
+Last updated: Feb 20, 2020 (Next update scheduled: Mar 1)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -62,6 +62,7 @@ Previous Projections:
 [Dec28](Dec28/index.md)
 [Jan11](Jan11/index.md)
 [Jan19](Jan19/index.md)
+[Jan31](Jan31/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -70,17 +71,18 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
-* My model projects flat curves of cases and deaths over the next few weeks in the US.
-* Fatality will peak in early February. The peak is at 3000-3500 deaths/day, with single day max above 4000.
+* My model projects rapid decrease of cases and deaths over the next few weeks in the US.
+* Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
+* Total Deaths will reach 500,000 by Feb 23. Total Deaths will not be higher than 600,000 when the pandemic ends.
 
 ## States at risk:
 See figure below "Daily New Cases in 50 US States". States at risk are colored in red.
 
 ## Next 10 days
 Top 5 States by Daily New Cases
-* Next Day Feb 1: CA(18180), TX(17351), NY(12212), FL(10117), AZ(5955)
-* In 5 Days Feb 5: TX(17379), CA(16326), NY(11930), FL(9744), AZ(5877)
-* In 10 Days Feb 10: TX(17361), TX(14611), NY(11299), FL(9332), AZ(5688)
+* Next Day Feb 20: NY(7633), TX(7363), CA(6930), FL(6010), NJ(3161)
+* In 5 Days Feb 25: TX(7069), NY(6890), CA(5896), FL(5517), NJ(2909)
+* In 10 Days Mar 2: TX(7014), NY(6055), FL(5106), CA(5091), GA(2864)
 
 ## Projection of the Next 60 Days
 ### State Projection:
