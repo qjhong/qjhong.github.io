@@ -80,7 +80,11 @@ This is a personal project and these are my own views.
 * Jan 19: Fatality will peak in early February. The peak is at 3000-3500 deaths/day, with single day max above 4000.
 
 ## States at risk:
-See figure below "Daily New Cases in 50 US States". States at risk are colored in red.
+## Next 30 days
+Top 5 States by Daily New Cases
+* In 05 Days Jul 17: FL(4725), CA(2215), TX(1895), MO(1570), AR(924)
+* In 10 Days Jul 22: FL(6287), CA(2640), TX(2057), MO(1865), AR(1062)
+* In 30 Days Mar 12: FL(12839), CA(5713), MO(4649), TX(3211), AR(1665)
 
 ## Projection of the Next 60 Days
 ### State Projection:
