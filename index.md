@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Feb 20, 2020 (Next update scheduled: Mar 1)
+Last updated: Jul 12, 2020 (Next update scheduled: Jul 26)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -63,6 +63,7 @@ Previous Projections:
 [Jan11](Jan11/index.md)
 [Jan19](Jan19/index.md)
 [Jan31](Jan31/index.md)
+[Feb20](Feb20/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -71,6 +72,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Jul 12: It appears more and more likely that there will be another wave due to the Delta variant.
 * Feb 20: My model projects rapid decrease of cases and deaths over the next few weeks in the US.
 * Feb 20: Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
 * Feb 20: Total Deaths will reach 500,000 by Feb 23. Total Deaths will not be higher than 600,000 when the pandemic ends.
@@ -79,12 +81,6 @@ This is a personal project and these are my own views.
 
 ## States at risk:
 See figure below "Daily New Cases in 50 US States". States at risk are colored in red.
-
-## Next 10 days
-Top 5 States by Daily New Cases
-* Next Day Feb 20: NY(7633), TX(7363), CA(6930), FL(6010), NJ(3161)
-* In 5 Days Feb 25: TX(7069), NY(6890), CA(5896), FL(5517), NJ(2909)
-* In 10 Days Mar 2: TX(7014), NY(6055), FL(5106), CA(5091), GA(2864)
 
 ## Projection of the Next 60 Days
 ### State Projection:
@@ -170,11 +166,6 @@ Starting the next update, I will post ranking only using the new method (since t
 
 ### Daily Tests and Daily New Cases
 (Data source: the COVID Tracking Project)
-
-![US_DailyNewCases](US_DailyNewCases.png)
-### Daily New Cases in 50 US States
-(Data source: the COVID Tracking Project)
-![](States_DNC.png)
 
 ### What is the idea?
 <p> UPDATE: Since Oct 12, my model has included more features, in addition to encounter density. XGBoost is employed for regression.</p>
