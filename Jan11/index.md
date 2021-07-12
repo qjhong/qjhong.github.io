@@ -1,6 +1,6 @@
 Qi-Jun Hong
 
-Projection made on Janurary 11, 2020 
+Projection made on Janurary 11, 2021
 
 [Source](https://github.com/qjhong/covid19)
 
