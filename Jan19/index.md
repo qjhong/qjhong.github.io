@@ -1,66 +1,6 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65833621-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+Qi-Jun Hong 
 
-  gtag('config', 'UA-65833621-2');
-</script>
-</head> 
-
-Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
-
-Last updated: Janurary 19, 2021 (Next update scheduled: January 25)
-
-Previous Projections:
-[May25](May25/index.html)
-[May29](May29/index.html)
-[Jun02](Jun02/index.html)
-[Jun04](Jun04/index.html)
-[Jun05](Jun05/index.html)
-[Jun08](Jun08/index.html)
-[Jun15](Jun15/index.html)
-[Jun19](Jun19/index.html)
-[Jun22](Jun22/index.html)
-[Jun25](Jun25/index.html)
-[Jun29](Jun29/index.html)
-[Jul03](Jul03/index.html)
-[Jul06](Jul06/index.html)
-[Jul10](Jul10/index.html)
-[Jul13](Jul13/index.html)
-[Jul16](Jul16/index.html)
-[Jul20](Jul20/index.html)
-[Jul23](Jul23/index.html)
-[Jul27](Jul27/index.html)
-[Jul31](Jul31/index.html)
-[Aug05](Aug05/index.html)
-[Aug10](Aug10/index.html)
-[Aug17](Aug17/index.html)
-[Aug25](Aug25/index.html)
-[Aug31](Aug31/index.html)
-[Sep10](Sep10/index.html)
-[Sep15](Sep15/index.html)
-[Sep23](Sep23/index.html)
-[Sep28](Sep28/index.html)
-[Oct05](Oct05/index.html)
-[Oct12](Oct12/index.html)
-[Oct20](Oct20/index.html)
-[Oct26](Oct26/index.html)
-[Nov02](Nov02/index.html)
-[Nov06](Nov06/index.html)
-[Nov09](Nov09/index.html)
-[Nov12](Nov12/index.html)
-[Nov16](Nov16/index.md)
-[Nov19](Nov19/index.md)
-[Nov23](Nov23/index.md)
-[Nov30](Nov30/index.md)
-[Dec07](Dec07/index.md)
-[Dec14](Dec14/index.md)
-[Dec21](Dec21/index.md)
-[Dec28](Dec28/index.md)
-[Jan11](Jan11/index.md)
+Projection made on Janurary 19, 2021 
 
 [Source](https://github.com/qjhong/covid19)
 
