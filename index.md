@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Jul 12, 2021 (Next update scheduled: Jul 26)
+Last updated: Jul 19, 2021 (Next update scheduled: Aug 02)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -64,6 +64,7 @@ Previous Projections:
 [Jan19](Jan19/index.md)
 [Jan31](Jan31/index.md)
 [Feb20](Feb20/index.md)
+[Jul12](Jul12/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -72,6 +73,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Jul 19: This wave could be worse than the previous one.
 * Jul 12: It appears more and more likely that there will be another wave due to the Delta variant.
 * Feb 20: My model projects rapid decrease of cases and deaths over the next few weeks in the US.
 * Feb 20: Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
@@ -82,9 +84,9 @@ This is a personal project and these are my own views.
 ## States at risk:
 ## Next 30 days
 Top 5 States by Daily New Cases
-* In 05 Days Jul 17: FL(4725), CA(2215), TX(1895), MO(1570), AR(924)
-* In 10 Days Jul 22: FL(6287), CA(2640), TX(2057), MO(1865), AR(1062)
-* In 30 Days Mar 12: FL(12839), CA(5713), MO(4649), TX(3211), AR(1665)
+* In 05 Days Jul 24: FL(6312), CA(5620), TX(4669), MO(2679), LA(1790)
+* In 10 Days Jul 29: FL(8087), CA(7457), TX(5847), MO(3395), LA(2353)
+* In 30 Days Mar 19: FL(20022), CA(16362), TX(13524), MO(7690), LA(4967)
 
 ## Projection of the Next 60 Days
 ### State Projection:
