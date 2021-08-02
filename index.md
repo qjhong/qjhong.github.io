@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Jul 19, 2021 (Next update scheduled: Aug 02)
+Last updated: Aug 02, 2021 (Next update scheduled: Aug 16)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -65,6 +65,7 @@ Previous Projections:
 [Jan31](Jan31/index.md)
 [Feb20](Feb20/index.md)
 [Jul12](Jul12/index.md)
+[Jul19](Jul19/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -73,20 +74,21 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Aug 02: Daily fatality count will rise rapidly in August. It will surpass 1,000/day.
 * Jul 19: This wave could be worse than the previous one.
 * Jul 12: It appears more and more likely that there will be another wave due to the Delta variant.
 * Feb 20: My model projects rapid decrease of cases and deaths over the next few weeks in the US.
 * Feb 20: Fatality will cross below 2000 deaths/day by end of Feb, and 1000 deaths/day by end of March.
 * Feb 20: Total Deaths will reach 500,000 by Feb 23. Total Deaths will not be higher than 600,000 when the pandemic ends.
-* Feb 1: My model projects stable decrease of cases over the next few weeks in the US. Fatality has peaked, but its decline will be slow. Averaged daily deaths will not cross below 2,000/day until March.
+* Feb 01: My model projects stable decrease of cases over the next few weeks in the US. Fatality has peaked, but its decline will be slow. Averaged daily deaths will not cross below 2,000/day until March.
 * Jan 19: Fatality will peak in early February. The peak is at 3000-3500 deaths/day, with single day max above 4000.
 
 ## States at risk:
 ## Next 30 days
 Top 5 States by Daily New Cases
-* In 05 Days Jul 24: FL(6312), CA(5620), TX(4669), MO(2679), LA(1790)
-* In 10 Days Jul 29: FL(8087), CA(7457), TX(5847), MO(3395), LA(2353)
-* In 30 Days Mar 19: FL(20022), CA(16362), TX(13524), MO(7690), LA(4967)
+* In 05 Days Aug 07: FL(21667), TX(13760), CA(12978), LA(5321), GA(4330)
+* In 10 Days Aug 12: FL(28321), TX(17898), CA(17745), LA(6475), GA(5469)
+* In 20 Days Aug 22: FL(38307), CA(28271), TX(28017), LA(8784), GA(8316)
 
 ## Projection of the Next 60 Days
 ### State Projection:
