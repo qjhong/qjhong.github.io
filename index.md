@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Aug 02, 2021 (Next update scheduled: Aug 16)
+Last updated: Aug 15, 2021 (Next update scheduled: Aug 29)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -66,6 +66,7 @@ Previous Projections:
 [Feb20](Feb20/index.md)
 [Jul12](Jul12/index.md)
 [Jul19](Jul19/index.md)
+[Aug02](Aug02/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -74,6 +75,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Aug 15: There are early signs that the curve is flattened.
 * Aug 02: Daily fatality count will rise rapidly in August. It will surpass 1,000/day.
 * Jul 19: This wave could be worse than the previous one.
 * Jul 12: It appears more and more likely that there will be another wave due to the Delta variant.
@@ -86,9 +88,9 @@ This is a personal project and these are my own views.
 ## States at risk:
 ## Next 30 days
 Top 5 States by Daily New Cases
-* In 05 Days Aug 07: FL(21667), TX(13760), CA(12978), LA(5321), GA(4330)
-* In 10 Days Aug 12: FL(28321), TX(17898), CA(17745), LA(6475), GA(5469)
-* In 20 Days Aug 22: FL(38307), CA(28271), TX(28017), LA(8784), GA(8316)
+* In 05 Days Aug 20: FL(25286), TX(19723), CA(13995), GA(7491), NC(6841)
+* In 10 Days Aug 25: FL(26010), TX(22306), CA(14603), GA(7869), NC(7495)
+* In 20 Days Sep 04: TX(27059), FL(25127), CA(14806), GA(8637), NY(8389)
 
 ## Projection of the Next 60 Days
 ### State Projection:
