@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Aug 15, 2021 (Next update scheduled: Aug 29)
+Last updated: Aug 29, 2021 (Next update scheduled: Sept 12)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -67,6 +67,7 @@ Previous Projections:
 [Jul12](Jul12/index.md)
 [Jul19](Jul19/index.md)
 [Aug02](Aug02/index.md)
+[Aug15](Aug15/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -75,6 +76,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Aug 29: This wave will peak near end of Sept, with around 2,000 deaths per day.
 * Aug 15: There are early signs that the curve is flattened.
 * Aug 02: Daily fatality count will rise rapidly in August. It will surpass 1,000/day.
 * Jul 19: This wave could be worse than the previous one.
