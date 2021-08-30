@@ -90,9 +90,9 @@ This is a personal project and these are my own views.
 ## States at risk:
 ## Next 30 days
 Top 5 States by Daily New Cases
-* In 05 Days Aug 20: FL(25286), TX(19723), CA(13995), GA(7491), NC(6841)
-* In 10 Days Aug 25: FL(26010), TX(22306), CA(14603), GA(7869), NC(7495)
-* In 20 Days Sep 04: TX(27059), FL(25127), CA(14806), GA(8637), NY(8389)
+* In 05 Days Sep 03: FL(25178), TX(17316), CA(14993), GA(10167), NC(6918)
+* In 10 Days Sep 08: FL(25506), TX(17085), CA(14541), GA(10438), NC(7361)
+* In 20 Days Sep 18: FL(23603), TX(14859), CA(12802), GA(10126), TN(7625)
 
 ## Projection of the Next 60 Days
 ### State Projection:
