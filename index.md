@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Sep 26, 2021 (Next update scheduled: Oct 10)
+Last updated: Oct 10, 2021 (Next update scheduled: Oct 24)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -70,6 +70,7 @@ Previous Projections:
 [Aug15](Aug15/index.md)
 [Aug29](Aug29/index.md)
 [Sep12](Sep12/index.md)
+[Sep26](Sep26/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -78,6 +79,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Oct 10: The fatality curve has already peaked. The US will surpass 750,000 total deaths on Nov 7, and 800,000 by year end.
 * Sep 26: Daily cases have already peaked. The fatality curve will peak in one week. The US will surpass 700,000 total deaths on Oct 2.
 * Sep 12: Daily cases have already peaked. The fatality curve will peak near end of Sept, with around 2,000 deaths per day. The US will surpass 700,000 total deaths on Oct 5.
 * Aug 29: This wave will peak near end of Sept, with around 2,000 deaths per day.
@@ -94,9 +96,9 @@ This is a personal project and these are my own views.
 ## States at risk:
 ## Next 30 days
 Top 5 States by Daily New Cases
-* In 05 Days Oct 01: TX(11285), FL(8667), CA(7267), OH(5903), NC(5747)
-* In 10 Days Oct 06: TX(10168), FL(7700), CA(6703), OH(5248), NC(5241)
-* In 20 Days Oct 16: TX(10420), FL(6437), CA(5775), NY(4061), OH(3903)
+* In 05 Days Oct 15: TX(5443), CA(5300), PA(4754), OH(4582), NY(4442)
+* In 10 Days Oct 20: CA(4931), PA(4422), TX(4237), NY(4120), OH(3966)
+* In 20 Days Oct 30: CA(5007), PA(3772), NY(3623), MI(3058), MN(2957)
 
 ## Projection of the Next 60 Days
 ### State Projection:
