@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Nov 18, 2021 (Next update scheduled: Dec 2)
+Last updated: Nov 18, 2021 (Next update scheduled: Dec 16. I decide to skip the Dec 2 update, due to data issue during Thanksgiving.)
 
 Previous Projections:
 [May25](May25/index.html)
