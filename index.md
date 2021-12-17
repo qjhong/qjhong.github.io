@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Nov 18, 2021 (Next update scheduled: Dec 16. I decide to skip the Dec 2 update, due to data issue during Thanksgiving.)
+Last updated: Dec 16, 2021 (Next update scheduled: Dec 30.)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -73,6 +73,7 @@ Previous Projections:
 [Sep26](Sep26/index.md)
 [Oct10](Oct10/index.md)
 [Nov04](Nov04/index.md)
+[Nov18](Nov18/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -81,6 +82,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Dec 16: The impact from the Omicron varient is still unclear. Vaccination protects the US from severe surge in cases and deaths. The US is expected to surpass 900,000 total deaths in Feb.
 * Nov 18: The US will surpass 800,000 total deaths on Dec 18, and 900,000 around end of Feb.
 * Nov 04: There will be another wave this winter. The US will surpass 800,000 total deaths by year end.
 * Oct 10: The fatality curve has already peaked. The US will surpass 750,000 total deaths on Nov 7, and 800,000 by year end.
@@ -99,10 +101,6 @@ This is a personal project and these are my own views.
 
 ## States at risk:
 ## Next 30 days
-Top 5 States by Daily New Cases
-* In 05 Days Nov 23: MI(8286), NY(6284), PA(5552), OH(5486), CA(4617)
-* In 10 Days Nov 28: MI(8958), NY(6555), PA(5905), OH(5893), MN(4825)
-* In 20 Days Dec 08: MI(9769), NY(7091), PA(6745), OH(6398), AZ(5359)
 
 ## Projection of the Next 60 Days
 ### State Projection:
