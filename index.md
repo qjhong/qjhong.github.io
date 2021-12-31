@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Dec 16, 2021 (Next update scheduled: Dec 30.)
+Last updated: Dec 30, 2021 (Next update scheduled: Jan 13)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -74,6 +74,7 @@ Previous Projections:
 [Oct10](Oct10/index.md)
 [Nov04](Nov04/index.md)
 [Nov18](Nov18/index.md)
+[Dec16](Dec16/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -82,7 +83,8 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
-* Dec 16: The impact from the Omicron varient is still unclear. Vaccination protects the US from severe surge in cases and deaths. The US is expected to surpass 900,000 total deaths in Feb.
+* Dec 30: Reproductive number and positivity ratio are at record high. The new Omicron variant poses a great challenge for machine learning, because there is little data to learn from. The case curve forecast is terrible for the coming weeks. The fatality curve is probably overestimated.
+* Dec 16: The impact from the Omicron variant is still unclear. Vaccination protects the US from severe surge in cases and deaths. The US is expected to surpass 900,000 total deaths in Feb.
 * Nov 18: The US will surpass 800,000 total deaths on Dec 18, and 900,000 around end of Feb.
 * Nov 04: There will be another wave this winter. The US will surpass 800,000 total deaths by year end.
 * Oct 10: The fatality curve has already peaked. The US will surpass 750,000 total deaths on Nov 7, and 800,000 by year end.
