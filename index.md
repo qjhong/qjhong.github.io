@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Jan 13, 2022 (Next update scheduled: Jan 27)
+Last updated: Jan 27, 2022 (Next update scheduled: Feb 10)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -76,6 +76,7 @@ Previous Projections:
 [Nov18](Nov18/index.md)
 [Dec16](Dec16/index.md)
 [Dec30](Dec30/index.md)
+[Jan13](Jan13/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -84,6 +85,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* Jan 27 2022: Now I have sufficient data to make reliable projections. The case curve has already peaked, while fatality curve will peak slightly below 3000 / day. The US will surpass 900,000 total deaths on Feb 7, and the 1,000,000 mark on March 19.
 * Jan 13 2022: It is still very hard to make reliable projections. As more Omicron data comes in, the model is starting to learn from it. A significant increase in fatality is inevitable.
 * Dec 30 2021: Reproductive number and positivity ratio are at record high. The new Omicron variant poses a great challenge for machine learning, because there is little data to learn from. The case curve forecast is terrible for the coming weeks. The fatality curve is probably overestimated.
 * Dec 16: The impact from the Omicron variant is still unclear. Vaccination protects the US from severe surge in cases and deaths. The US is expected to surpass 900,000 total deaths in Feb.
