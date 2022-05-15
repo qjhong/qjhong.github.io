@@ -12,7 +12,7 @@
 
 Qi-Jun Hong [About Me](AboutMe.html) [Twitter](https://twitter.com/hongqijun) [CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
-Last updated: Feb 12, 2022 (Next update scheduled: Feb 26)
+Last updated: May 15, 2022 (Next update: no earlier than Jun 15)
 
 Previous Projections:
 [May25](May25/index.html)
@@ -78,6 +78,7 @@ Previous Projections:
 [Dec30](Dec30/index.md)
 [Jan13](Jan13/index.md)
 [Jan27](Jan27/index.md)
+[Feb12](Feb12/index.md)
 
 [Source](https://github.com/qjhong/covid19)
 
@@ -86,6 +87,7 @@ This is a personal project and these are my own views.
 
 
 ## Projection summary
+* May 15: The US fatality is reaching the 1,000,000 mark this week. There is another wave coming, but it will not be severe, with high vaccination rate and low fatality rate of Omicron.
 * Feb 12: The fatality curve is peaking. The US has surpassed 900,000 total deaths. We might be able to avoid the 1,000,000 mark, but it depends on many factors.
 * Jan 27: Now I have sufficient data to make reliable projections. The case curve has already peaked, while fatality curve will peak slightly below 3000 / day. The US will surpass 900,000 total deaths on Feb 7, and the 1,000,000 mark on March 19.
 * Jan 13 2022: It is still very hard to make reliable projections. As more Omicron data comes in, the model is starting to learn from it. A significant increase in fatality is inevitable.
